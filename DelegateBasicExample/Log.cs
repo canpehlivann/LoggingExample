@@ -8,6 +8,7 @@ namespace DelegateBasicExample
     public class Log
     {
         private delegate void LogDel(string text);
+       
         public Log()
         {
             
