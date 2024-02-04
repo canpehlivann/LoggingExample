@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\bin\Debug\netcoreapp3.0\DelegateBasicExample.exe
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\bin\Debug\netcoreapp3.0\DelegateBasicExample.deps.json
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\bin\Debug\netcoreapp3.0\DelegateBasicExample.runtimeconfig.json
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\bin\Debug\netcoreapp3.0\DelegateBasicExample.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\bin\Debug\netcoreapp3.0\DelegateBasicExample.dll
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\bin\Debug\netcoreapp3.0\DelegateBasicExample.pdb
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.dll
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.pdb
+C:\Users\HP\Documents\C#\CSharpBasicProjects-master\DELEGATES\BasicDelegateExample\DelegateBasicExample\obj\Debug\netcoreapp3.0\DelegateBasicExample.genruntimeconfig.cache
